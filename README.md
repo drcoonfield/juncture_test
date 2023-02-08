@@ -1,7 +1,7 @@
 <param ve-config 
        title="Only Memory"
        author="Gordon Coonfield, Villanova University"
-       banner="url=https://kensingtonremembers.org/wp-content/uploads/2021/01/chino03-2048x1536.jpg" 
+       banner="https://kensingtonremembers.org/wp-content/uploads/2021/01/chino03-2048x1536.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
