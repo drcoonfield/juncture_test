@@ -1,4 +1,4 @@
-<a href="[https://kensingtonremembers.org/wp-content/uploads/2020/07/indie_hall.jpg)"><img src="[https://kensingtonremembers.org/wp-content/uploads/2020/07/indie_hall.jpg]"></a>
+<a href="[https://kensingtonremembers.org/wp-content/uploads/2020/07/indie_hall.jpg]"><img src="[https://kensingtonremembers.org/wp-content/uploads/2020/07/indie_hall.jpg]"></a>
 
 <param ve-config 
        title="Only Memory"
@@ -14,7 +14,7 @@
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
-# Only Memory - Sample
+#Only Memory - Sample
 
 * This is a sample visual essay 
 * demonstrating a few key features of a Visual Essay. 
