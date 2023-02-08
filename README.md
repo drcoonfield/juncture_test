@@ -1,9 +1,7 @@
-<a href="https://kensingtonremembers.org/wp-content/uploads/2020/07/indie_hall.jpg"><img src="https://kensingtonremembers.org/wp-content/uploads/2020/07/indie_hall.jpg"></a>
-
 <param ve-config 
        title="Only Memory"
        author="Gordon Coonfield, Villanova University"
-       banner="[url=https://kensingtonremembers.org/wp-content/uploads/2021/01/chino03-2048x1536.jpg]" 
+       banner="url=https://kensingtonremembers.org/wp-content/uploads/2021/01/chino03-2048x1536.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
@@ -28,10 +26,12 @@ _Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by D
 dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
 20th century after the earring worn by the girl portrayed there.[^1]
 <param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
-       license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+       label="Independence Hall" 
+       description="Photograph by G. Coonfield" 
+       license="Digital Commons License" 
+       url="<a href="https://kensingtonremembers.org/wp-content/uploads/2020/07/indie_hall.jpg"><img src="https://kensingtonremembers.org/wp-content/uploads/2020/07/indie_hall.jpg"></a>
+
+">
 
 ## Map
 
