@@ -1,9 +1,9 @@
-<a href="[https://juncture-digital.org](https://kensingtonremembers.org/wp-content/uploads/2020/07/indie_hall.jpg)"><img src="[https://juncture-digital.org/images/ve-button.png](https://kensingtonremembers.org/wp-content/uploads/2020/07/indie_hall.jpg)"></a>
+<a href="[https://kensingtonremembers.org/wp-content/uploads/2020/07/indie_hall.jpg)"><img src="[https://kensingtonremembers.org/wp-content/uploads/2020/07/indie_hall.jpg]"></a>
 
 <param ve-config 
-       title="What is Monumental Memory"
+       title="Only Memory"
        author="Gordon Coonfield, Villanova University"
-       banner="[https://iiif.juncture-digital.org/banner/?url=[(https://kensingtonremembers.org/wp-content/uploads/2021/01/chino03-2048x1536.jpg](https://kensingtonremembers.org/wp-content/uploads/2021/01/chino03-2048x1536.jpg)" 
+       banner="[url=https://kensingtonremembers.org/wp-content/uploads/2021/01/chino03-2048x1536.jpg]" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
@@ -14,9 +14,11 @@
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
-# Sample visual essay
+# Only Memory - Sample
 
-This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
+* This is a sample visual essay 
+* demonstrating a few key features of a Visual Essay. 
+* Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
